@@ -39,7 +39,8 @@ The dataset can be downloaded from the link https://visualqa.org/download.html
 
 Click on the image to watch the demo
 
-[![VQA_Demo](http://img.youtube.com/vi/R_bW280eoJM/0.jpg)](http://www.youtube.com/watch?v=R_bW280eoJM "VQA_Demo")
+[![VQA_Demo](http://img.youtube.com/vi/6VTpUVSJKGI/0.jpg)](http://www.youtube.com/watch?v=6VTpUVSJKGI "VQA_MLH")
+
 
 ## Deploying in your machine
 
